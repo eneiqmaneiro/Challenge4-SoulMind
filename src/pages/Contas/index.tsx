@@ -6,3 +6,4 @@ export default function Contas() {
         </div>
     );
 }
+
