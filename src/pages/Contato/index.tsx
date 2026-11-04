@@ -142,7 +142,7 @@ export default function Contato() {
               </div>
               <div>
                 <p className="text-sm font-bold sm:text-base">E-mail</p>
-                <p className="text-sm text-muted-foreground">rm573695@fiap.com.br</p>
+                <p className="text-sm text-muted-foreground">rm569336@fiap.com.br</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
