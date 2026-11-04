@@ -1,6 +1,6 @@
 # SoulMind 🌱
 
-![Banner SoulMind](./SoulMind/src/assets/banner.png)
+![Banner SoulMind](/src/assets/banner.png)
 
 ## Descrição do Projeto
 
@@ -16,10 +16,9 @@ O projeto foi desenvolvido na **Sprint 4 de Front-End Design Engineering da FIAP
 
 | Item | Link |
 |---|---|
-| Repositório no GitHub | <COLE_AQUI_O_LINK_DO_REPOSITORIO_GITHUB> |
+| Repositório no GitHub | <https://github.com/eneiqmaneiro/Challenge4-SoulMind.git> |
 | Vídeo de apresentação (YouTube) | <COLE_AQUI_O_LINK_DO_VIDEO_NO_YOUTUBE> |
 | Aplicação publicada (Vercel) | <COLE_AQUI_A_URL_DA_VERCEL> |
-| API publicada (Java) | <COLE_AQUI_A_URL_DA_API> |
 
 ### Executar localmente
 
@@ -109,9 +108,9 @@ SoulMind/
 
 ## Imagens e Ícones
 
-<img src="./SoulMind/src/assets/logo.png" width="120" alt="Logo SoulMind">
-<img src="./SoulMind/src/assets/avatar-soul.png" width="120" alt="Soul, o assistente do SoulMind">
-<img src="./SoulMind/src/assets/home.png" width="240" alt="Tela inicial">
+<img src="/src/assets/logo.png" width="120" alt="Logo SoulMind">
+<img src="/src/assets/avatar-soul.png" width="120" alt="Soul, o assistente do SoulMind">
+<img src="/src/assets/home.png" width="240" alt="Tela inicial">
 
 Os ícones da interface vêm da biblioteca **React Icons**.
 
@@ -120,7 +119,7 @@ Os ícones da interface vêm da biblioteca **React Icons**.
 ## Autores e Créditos
 
 ### Ludmylla Nogueira
-<img src ="././SoulMind/src/assets/lud.jpeg" width=100px height=100px>
+<img src ="/src/assets/lud.jpeg" width=100px height=100px>
 
 - **RM:** 572999
 - **Turma:** 1TDSPW
@@ -129,25 +128,16 @@ Os ícones da interface vêm da biblioteca **React Icons**.
 
 ### Henrique Tavares Coutinho
 
-<img src ="././SoulMind/src/assets/henrique.jpeg" width=100px height=100px>
+<img src ="/src/assets/henrique.jpeg" width=100px height=100px>
 
 - **RM:** 569336
 - **Turma:** 1TDSPW
 - **LinkedIn:** https://www.linkedin.com/in/henrique-tavares-coutinho-81a512356
 - **GitHub:** https://github.com/eneiqmaneiro
 
-### Melissa Fiuza da Silva
-
-<img src ="././SoulMind/src/assets/melissa.jpeg" width=100px height=100px>
-
-- **RM:** 573695
-- **Turma:** 1TDSPO
-- **LinkedIn:** https://www.linkedin.com/in/melissa-fiuza
-- **GitHub:** https://github.com/melissafiuza
-
 ### Pedro Nunes Ferreira
 
-<img src ="././SoulMind/src/assets/pedro.png" width=100px height=100px>
+<img src ="/src/assets/pedro.png" width=100px height=100px>
 
 - **RM:** 573066
 - **Turma:** 1TDSPW
@@ -160,4 +150,4 @@ Os ícones da interface vêm da biblioteca **React Icons**.
 
 Caso tenha dúvidas, sugestões ou queira entrar em contato com a equipe:
 
-Email: ludmilanogueira231@gmail.com, melfiuza153@gmail.com, henriquetacou@gmail.com, pp23104554@gmail.com
+Email: ludmilanogueira231@gmail.com, henriquetacou@gmail.com, pp23104554@gmail.com
