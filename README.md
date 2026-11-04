@@ -18,7 +18,7 @@ O projeto foi desenvolvido na **Sprint 4 de Front-End Design Engineering da FIAP
 |---|---|
 | Repositório no GitHub | <https://github.com/eneiqmaneiro/Challenge4-SoulMind.git> |
 | Vídeo de apresentação (YouTube) | https://youtu.be/q69CTYi0hNA |
-| Aplicação publicada (Vercel) | <COLE_AQUI_A_URL_DA_VERCEL> |
+| Aplicação publicada (Vercel) | https://challenge4-soulmind.vercel.app/ |
 | API publicada (Java) | https://challenge4-avatarsoulup.onrender.com |
 
 ### Executar localmente
