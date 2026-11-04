@@ -17,7 +17,7 @@ O projeto foi desenvolvido na **Sprint 4 de Front-End Design Engineering da FIAP
 | Item | Link |
 |---|---|
 | Repositório no GitHub | <https://github.com/eneiqmaneiro/Challenge4-SoulMind.git> |
-| Vídeo de apresentação (YouTube) | <COLE_AQUI_O_LINK_DO_VIDEO_NO_YOUTUBE> |
+| Vídeo de apresentação (YouTube) | https://youtu.be/q69CTYi0hNA |
 | Aplicação publicada (Vercel) | <COLE_AQUI_A_URL_DA_VERCEL> |
 | API publicada (Java) | https://challenge4-avatarsoulup.onrender.com |
 
@@ -151,4 +151,4 @@ Os ícones da interface vêm da biblioteca **React Icons**.
 
 Caso tenha dúvidas, sugestões ou queira entrar em contato com a equipe:
 
-Email: ludmilanogueira231@gmail.com, henriquetacou@gmail.com, pp23104554@gmail.com
+Email: ludmilanogueira231@gmail.com, henriquetacou@gmail.com e pp23104554@gmail.com
