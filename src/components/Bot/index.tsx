@@ -1,5 +1,12 @@
 
+import { useState } from "react";
+import { Link } from "react-router-dom";
+import { FaX } from "react-icons/fa6";
+import avatarImg from "../../assets/avatar-soul.png";
+
 export default function Bot() {
+
+  const [aberto, setAberto] = useState(false);
   
   return (
     <div>
