@@ -44,6 +44,21 @@ export default function Contas() {
       setEnviando(false);
     }
   };
+
+  const excluir = async (conta: ContaExibicao) => {
+    if (!window.confirm(`Deseja excluir a conta de ${conta.nome}?`)) return;
+    setResultado(null);
+    try {
+      await excluirConta(conta.codigo);
+      setResultado({ tipo: "sucesso", texto: "Conta excluída com sucesso." });
+      recarregar();
+    } catch (e) {
+      setResultado({
+        tipo: "erro",
+        texto: e instanceof Error ? e.message : "Não foi possível excluir a conta.",
+      });
+    }
+  };
   
     return (
     <div>
