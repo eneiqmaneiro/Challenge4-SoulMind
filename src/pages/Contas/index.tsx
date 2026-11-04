@@ -25,6 +25,25 @@ export default function Contas() {
     ...conta,
     iniciais: gerarIniciais(conta.nome),
   }));
+
+  const cadastrar = async (dadosConta: ContaEntrada) => {
+    setEnviando(true);
+    setResultado(null);
+    try {
+      await criarConta(dadosConta);
+      setResultado({ tipo: "sucesso", texto: "Conta cadastrada com sucesso!" });
+      recarregar();
+      return true;
+    } catch (e) {
+      setResultado({
+        tipo: "erro",
+        texto: e instanceof Error ? e.message : "Não foi possível cadastrar a conta.",
+      });
+      return false;
+    } finally {
+      setEnviando(false);
+    }
+  };
   
     return (
     <div>
