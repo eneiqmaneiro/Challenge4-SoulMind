@@ -23,7 +23,7 @@ export default function Bot() {
             <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-full bg-primary">
               <img src={avatarImg} alt="Soul Bot" className="h-4/5 w-4/5 object-contain" />
             </div>
-            <h3 className="text-xl font-bold sm:text-2xl">Soul Bot</h3>
+            <h3 className="text-xl font-bold sm:text-2xl">Soulzinho</h3>
           </div>
 
           <p className="mt-5 text-sm text-muted-foreground sm:text-base">
@@ -50,7 +50,7 @@ export default function Bot() {
               onClick={() => setAberto(false)}
               className="rounded-xl border border-primary/30 px-5 py-3 text-center text-sm font-semibold text-primary transition-colors hover:bg-primary/10"
             >
-              Personalizar Bot
+              Personalizar o Soulzinho
             </Link>
             <Link
               to="/contato"
