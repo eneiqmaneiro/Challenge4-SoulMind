@@ -26,7 +26,7 @@ Pré-requisito: **Node.js** instalado.
 
 ```bash
 # 1. Clone o repositório
-git clone <COLE_AQUI_O_LINK_DO_REPOSITORIO_GITHUB>
+git clone https://github.com/eneiqmaneiro/Challenge4-SoulMind.git
 
 # 2. Acesse a pasta do projeto
 cd SoulMind
